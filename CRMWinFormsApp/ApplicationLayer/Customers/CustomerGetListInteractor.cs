@@ -1,4 +1,4 @@
-﻿using CRMWinFormsApp.Domain.Customers;
+﻿using CRMWinFormsApp.DomainLayer.Customers;
 using System.Linq;
 
 namespace CRMWinFormsApp.ApplicationLayer.Customers
